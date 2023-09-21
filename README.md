@@ -20,6 +20,11 @@ collation - usado para especificar regras específicas do idioma para comparaç�
 
 ## 📦 Comandos (Insert, Update, Delete, Replace)
 
+
+- consulta para valores do tipo Long (Compass)
+```
+{ numeroDae: NumberLong('1317308202474596338') }
+````
 - mostra todos as bases de dados
 ```
 show databases
